@@ -1,2 +1,2 @@
-# wordle
+# Wordess
 Wordle clone
